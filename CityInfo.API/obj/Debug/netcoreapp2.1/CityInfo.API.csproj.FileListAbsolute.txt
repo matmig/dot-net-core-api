@@ -4,7 +4,6 @@ C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.runtimeconfig.dev.json
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.pdb
-C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
@@ -12,3 +11,5 @@ C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
+C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
+C:\Projects\Private\PluralsightDemo\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.json

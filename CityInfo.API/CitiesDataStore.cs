@@ -60,7 +60,7 @@ namespace CityInfo.API
                 },
                   new CityDto()
                 {
-                    Id = 2,
+                    Id = 3,
                     Name = "Cracow",
                     Description = "The three",
                     PointsOfInterest = new List<PointOfInterestDto>()
